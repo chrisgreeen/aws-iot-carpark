@@ -6,6 +6,8 @@
 
  About  : Loops reading a switch (the car park sensor) on a RaspberryPi and 
           sends an MQTT message containing a JSON record like the following
+          
+          
           {
             "timestamp": "1549844689.0",
             "meter": {
