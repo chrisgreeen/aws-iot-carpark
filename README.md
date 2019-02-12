@@ -1,14 +1,7 @@
-# awsiotcarpark
-
-
-    ___      _____   ___    _____    ___            ___          _   
-   /_\ \    / / __| |_ _|__|_   _|  / __|__ _ _ _  | _ \__ _ _ _| |__
-  / _ \ \/\/ /\__ \  | |/ _ \| |   | (__/ _` | '_| |  _/ _` | '_| / /
- /_/ \_\_/\_/ |___/ |___\___/|_|    \___\__,_|_|   |_| \__,_|_| |_\_\
                                                                                       
  Copyright (c) Chris Green 2019
 
- Name   : getCarPark001Status.py
+ Name   : #getCarPark001Status.py
  version: 0.1 beta
 
  About  : Loops reading a switch (the car park sensor) on a RaspberryPi and 
@@ -34,15 +27,9 @@
 
 
 
-    ___      _____   ___    _____   ___  _         _           
-   /_\ \    / / __| |_ _|__|_   _| |   \(_)____ __| |__ _ _  _ 
-  / _ \ \/\/ /\__ \  | |/ _ \| |   | |) | (_< '_ \ / _` | || |
- /_/ \_\_/\_/ |___/ |___\___/|_|   |___/|_/__/ .__/_\__,_|\_, |
-                                             |_|          |__/ 
-
  Copyright (c) Chris Green 2019
 
- Name   : getUpdates.py
+ Name   : #getUpdates.py
  version: 0.1 beta
 
  About  : Subscribes to the AWS IoT MQTT topic for car park sensor device state changes.
