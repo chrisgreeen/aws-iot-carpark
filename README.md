@@ -1,7 +1,7 @@
                                                                                       
  Copyright (c) Chris Green 2019
 
- Name   : #getCarPark001Status.py
+ #Name   : getCarPark001Status.py
  version: 0.1 beta
 
  About  : Loops reading a switch (the car park sensor) on a RaspberryPi and 
@@ -27,9 +27,7 @@
 
 
 
- Copyright (c) Chris Green 2019
-
- Name   : #getUpdates.py
+ #Name   : #getUpdates.py
  version: 0.1 beta
 
  About  : Subscribes to the AWS IoT MQTT topic for car park sensor device state changes.
